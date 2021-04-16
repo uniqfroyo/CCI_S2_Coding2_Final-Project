@@ -8,6 +8,8 @@ Use opencv, numpy, matplot, scikit-image in Python to create different image fil
 
 As a overseas student, the life of studying in London is a memory that I will never forget in my life.  So I hope to record the beautiful scenery of London in the form of paintings and make it into 'an album'.
 
+<img src="https://cdn-images-1.medium.com/max/1600/1*-jnx9xZ9LIdacwDb8POLzw.gif" alt="image" style="zoom:33%;" />
+
 ![image](https://cdn-images-1.medium.com/max/1600/1*-jnx9xZ9LIdacwDb8POLzw.gif)
 
 **Oil Painting Effect filter**
