@@ -10,6 +10,31 @@ As a overseas student, the life of studying in London is a memory that I will ne
 
 ![image](https://miro.medium.com/max/4800/1*csL8Wvf0eRfzSY7ypQo6oA.gif)
 
+**Oil Painting Effect filter**
+
+![image](https://miro.medium.com/max/1400/1*r7_dhyCAC6mPncjOHk7dMQ.png)
+
+
+**Pointillist Art filter**
+
+![image](https://miro.medium.com/max/1400/1*VfvGC5eNRuYeQsJizL7Jsg.png)
+
+
+**Frosted glass filter**
+
+![image](https://miro.medium.com/max/1400/1*ie1b0x8yxKmloAI0YSd0Aw.png)
+
+
+**Pencil sketch filter**
+
+![image](https://miro.medium.com/max/1400/1*_6J_nq__k5HLbH3AO2sgNA.png)
+
+
+**Light ripple filter**
+
+![image](https://miro.medium.com/max/1400/1*uS8T0rLg45ZP5prHZ06aRw.png)
+
+
 My blog：https://www.froyodai.com/post/cci-s2-coding2_final-project_my-album-of-london
 
 My Video：https://www.youtube.com/watch?v=HIquP0WDUDQ&t=11s
