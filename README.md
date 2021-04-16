@@ -35,6 +35,6 @@ As a overseas student, the life of studying in London is a memory that I will ne
 ![image](https://miro.medium.com/max/1400/1*uS8T0rLg45ZP5prHZ06aRw.png)
 
 
-![More details in blog](https://www.froyodai.com/post/cci-s2-coding2_final-project_my-album-of-london)
+More details in blog:https://www.froyodai.com/post/cci-s2-coding2_final-project_my-album-of-london
 
 Video：https://www.youtube.com/watch?v=HIquP0WDUDQ&t=11s
