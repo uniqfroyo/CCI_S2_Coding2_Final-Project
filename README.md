@@ -8,7 +8,7 @@ Use opencv, numpy, matplot, scikit-image in Python to create different image fil
 
 As a overseas student, the life of studying in London is a memory that I will never forget in my life.  So I hope to record the beautiful scenery of London in the form of paintings and make it into 'an album'.
 
-![](https://miro.medium.com/max/4800/1*csL8Wvf0eRfzSY7ypQo6oA.gif)
+![image](https://miro.medium.com/max/4800/1*csL8Wvf0eRfzSY7ypQo6oA.gif)
 
 My blog：https://www.froyodai.com/post/cci-s2-coding2_final-project_my-album-of-london
 
