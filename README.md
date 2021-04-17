@@ -53,8 +53,32 @@ Calculate the center position of wave, and then call np.sin() function to calcul
 I use dash to visualize them in Reactive Web Apps. You’ll find a [getting started guide here](https://plotly.com/dash/) and the [Dash code on GitHub here](https://github.com/plotly/dash).
 Dash is a user interface library for creating analytical web applications. Those who use Python for data analysis, data exploration, visualization, modelling, instrument control, and reporting will find immediate use for Dash. [link](https://github.com/YIDAI1111/CCI_S2_Coding2_Final-Project/tree/main/image_Light%20ripple)
 
+I choose 'streets of London' as my BGM. I hope this can takes you back to your London memories.
 
 [More details in blog](https://www.froyodai.com/post/cci-s2-coding2_final-project_my-album-of-london)
 
 [Video](https://www.youtube.com/watch?v=HIquP0WDUDQ&t=11s)
+
+
+##Useful resource：
+
+OpenCV with Python tutorial 
+
+Python image manipulation tools
+
+Opencv library: https://github.com/opencv/opencv-python 
+
+Dash introduction: https://medium.com/plotly/introducing-dash-5ecf7191b503 
+
+Dash core component library: 
+
+https://github.com/plotly/dash-core-components
+
+https://dash.plotly.com/dash-core-components/graph 
+
+Machine learning in creating art and music 
+
+Create Pointillism Art from Digital Images
+
+python-opencv displays blur, beautification, watercolor and other effects on videos and images 
 
