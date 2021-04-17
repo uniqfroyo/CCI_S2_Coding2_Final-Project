@@ -1,6 +1,6 @@
 # CCI_S2_Coding2_Final-Project
 
-**Project Summary**
+## Project Summary
 
 Use opencv, numpy, matplot, scikit-image in Python to create different image filters to show the beautiful scenery of London, then use dash to show before after as an album.
 
@@ -10,7 +10,7 @@ As a overseas student, the life of studying in London is a memory that I will ne
 
 ![image](https://miro.medium.com/max/1400/1*8-M1SqpIR4UpcLnscn7WWw.png)
 
-**Process**
+## Process
 
 **Oil Painting Effect filter** [link](https://github.com/YIDAI1111/CCI_S2_Coding2_Final-Project/tree/main/image_Oil%20Painting%20Effect)
 
