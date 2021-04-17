@@ -30,15 +30,21 @@ To do this in Python, our first step is to compute the most used colors for whic
 
 **Frosted glass filter** [link](https://github.com/YIDAI1111/CCI_S2_Coding2_Final-Project/tree/main/image_Frosted%20glass)
 
+The double layer circulates through each pixel of the image, and then uses the defined random number to replace the color of each neighborhood pixel.
+
 ![image](https://miro.medium.com/max/1400/1*ie1b0x8yxKmloAI0YSd0Aw.png)
 
 
 **Pencil sketch filter** [link](https://github.com/YIDAI1111/CCI_S2_Coding2_Final-Project/tree/main/image_%20Pencil%20sketch)
 
+The cv2.bilateralFilter() function is called to perform bilateral filtering on the original image. The filter can effectively remove noise while ensuring clear boundary and shorten pixel value to one value every 7 gray levels. It uses both spatial Gaussian weight and gray similarity Gaussian weight to ensure that the boundary will not be blurred.
+
 ![image](https://miro.medium.com/max/1400/1*_6J_nq__k5HLbH3AO2sgNA.png)
 
 
 **Light ripple filter**  [link](https://github.com/YIDAI1111/CCI_S2_Coding2_Final-Project/tree/main/image_Light%20ripple)
+
+Calculate the center position of wave, and then call np.sin() function to calculate the wave transfer function, and finally form the light wave special effect.
 
 ![image](https://miro.medium.com/max/1400/1*uS8T0rLg45ZP5prHZ06aRw.png)
 
