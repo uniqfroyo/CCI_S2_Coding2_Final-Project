@@ -17,26 +17,27 @@ As a overseas student, the life of studying in London is a memory that I will ne
 ![image](https://miro.medium.com/max/1400/1*r7_dhyCAC6mPncjOHk7dMQ.png)
 
 
-**Pointillist Art filter**
+**Pointillist Art filter** [link](https://github.com/YIDAI1111/CCI_S2_Coding2_Final-Project/tree/main/image_Pointillist%20Art)
 
 ![image](https://miro.medium.com/max/1400/1*VfvGC5eNRuYeQsJizL7Jsg.png)
 
 
-**Frosted glass filter**
+**Frosted glass filter** [link](https://github.com/YIDAI1111/CCI_S2_Coding2_Final-Project/tree/main/image_Frosted%20glass)
 
 ![image](https://miro.medium.com/max/1400/1*ie1b0x8yxKmloAI0YSd0Aw.png)
 
 
-**Pencil sketch filter**
+**Pencil sketch filter** [link](https://github.com/YIDAI1111/CCI_S2_Coding2_Final-Project/tree/main/image_%20Pencil%20sketch)
 
 ![image](https://miro.medium.com/max/1400/1*_6J_nq__k5HLbH3AO2sgNA.png)
 
 
-**Light ripple filter**
+**Light ripple filter**  [link](https://github.com/YIDAI1111/CCI_S2_Coding2_Final-Project/tree/main/image_Light%20ripple)
 
 ![image](https://miro.medium.com/max/1400/1*uS8T0rLg45ZP5prHZ06aRw.png)
 
 
-More details in blog:  https://www.froyodai.com/post/cci-s2-coding2_final-project_my-album-of-london
+[More details in blog](https://www.froyodai.com/post/cci-s2-coding2_final-project_my-album-of-london)
 
-Video： https://www.youtube.com/watch?v=HIquP0WDUDQ&t=11s
+[Video](https://www.youtube.com/watch?v=HIquP0WDUDQ&t=11s)
+
