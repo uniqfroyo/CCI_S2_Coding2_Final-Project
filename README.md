@@ -77,9 +77,9 @@ https://github.com/plotly/dash-core-components
 
 https://dash.plotly.com/dash-core-components/graph 
 
-Machine learning in creating art and music 
+[Machine learning in creating art and music ](https://github.com/magenta/magenta)
 
-Create Pointillism Art from Digital Images
+[Create Pointillism Art from Digital Images](https://web.stanford.edu/class/ee368/Project_Autumn_1516/Reports/Hong_Liu.pdf)
 
 [python-opencv displays blur, beautification, watercolor and other effects on videos and images ](https://www.programmersought.com/article/77574934129/)
  
