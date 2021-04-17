@@ -60,11 +60,12 @@ I choose 'streets of London' as my BGM. I hope this can takes you back to your L
 [Video](https://www.youtube.com/watch?v=HIquP0WDUDQ&t=11s)
 
 
-##Useful resource：
+## Useful resource：
 
-OpenCV with Python tutorial 
 
-Python image manipulation tools
+[OpenCV with Python tutorial](https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq&index=2))
+
+[Python image manipulation tools](https://opensource.com/article/19/3/python-image-manipulation-tools)
 
 Opencv library: https://github.com/opencv/opencv-python 
 
@@ -80,5 +81,6 @@ Machine learning in creating art and music
 
 Create Pointillism Art from Digital Images
 
-python-opencv displays blur, beautification, watercolor and other effects on videos and images 
+[python-opencv displays blur, beautification, watercolor and other effects on videos and images ](https://www.programmersought.com/article/77574934129/)
+ 
 
